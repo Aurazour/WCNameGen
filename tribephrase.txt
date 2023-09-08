@@ -1,0 +1,32 @@
+%s that %s at %s
+%s behind %s
+%s over %s
+%s %s behind %s
+%s at %s's %s
+%s %s %s
+%s of %s %s
+%s %s of the %s
+%s that %s the %s
+%s %s in the %s
+%s %s across the %s
+%s found in %s
+%s %s from %s
+%s in the middle of %s
+%s who %s the %s
+%s of %s that %s
+%s that %s the %s
+%s that %s
+%s with %s %s
+%s who %s
+%s which %s %s
+%s of %s %s
+%s who %s the %s
+%s full of %s %s
+%s %s on %s
+%s %s the %s
+%s about to take %s
+%s in %s
+%s %s to its %s
+%s %s across the %s
+%s between the %s
+%s %s many %s
